@@ -1,0 +1,6 @@
+ .imglogo{
+    z-index: 100000;
+    width: 90px;
+    height: 65px;
+    overflow: visible;
+}
